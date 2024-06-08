@@ -1,11 +1,21 @@
-commit 01a55c6821e88717daebc36a11b8f0fad4d65cbe (HEAD -> main)       
-Author: omovc83280 <omovc83280@gmail.com>
-Date:   Sat Jun 8 15:13:03 2024 +0900
+PS C:\Users\omovc\git_tutorial\git_tutorial3\git-basic-kadai-1> mkdir git_challenge
 
-    日本語訳を追加
 
-commit f37c51c3e170bf893459df19371186e8d392b891
-Author: omovc83280 <omovc83280@gmail.com>
-Date:   Sat Jun 8 15:10:30 2024 +0900
+    ディレクトリ: C:\Users\omovc\git_tutorial\git_tutorial3\git-basic-kadai-1
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        2024/06/08     18:33                git_challenge
 
-    textを追加
+PS C:\Users\omovc\git_tutorial\git_tutorial3\git-basic-kadai-1> cd git_challenge
+PS C:\Users\omovc\git_tutorial\git_tutorial3\git-basic-kadai-1\git_challenge> git init
+Initialized empty Git repository in C:/Users/omovc/git_tutorial/git_tutorial3/git-basic-kadai-1/git_challenge/.git/
+PS C:\Users\omovc\git_tutorial\git_tutorial3\git-basic-kadai-1\git_challenge> git add hello_world.txt
+PS C:\Users\omovc\git_tutorial\git_tutorial3\git-basic-kadai-1\git_challenge> git commit -m "hello_world.txt追加"
+[main (root-commit) 303bceb] hello_world.txt霑ｽ蜉
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 hello_world.txt
+PS C:\Users\omovc\git_tutorial\git_tutorial3\git-basic-kadai-1\git_challenge> git add hello_world.txt
+PS C:\Users\omovc\git_tutorial\git_tutorial3\git-basic-kadai-1\git_challenge> git commit -m "日本語訳を追加"
+[main 4b117bd] 譌･譛ｬ隱櫁ｨｳ繧定ｿｽ蜉
+ 1 file changed, 3 insertions(+)
+ 
