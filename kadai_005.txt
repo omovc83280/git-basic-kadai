@@ -1,0 +1,11 @@
+commit 01a55c6821e88717daebc36a11b8f0fad4d65cbe (HEAD -> main)       
+Author: omovc83280 <omovc83280@gmail.com>
+Date:   Sat Jun 8 15:13:03 2024 +0900
+
+    日本語訳を追加
+
+commit f37c51c3e170bf893459df19371186e8d392b891
+Author: omovc83280 <omovc83280@gmail.com>
+Date:   Sat Jun 8 15:10:30 2024 +0900
+
+    textを追加
