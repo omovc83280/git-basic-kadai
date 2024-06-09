@@ -18,5 +18,6 @@ PS C:\Users\omovc\git_tutorial\git_tutorial3\git-basic-kadai-1\git_challenge> gi
 PS C:\Users\omovc\git_tutorial\git_tutorial3\git-basic-kadai-1\git_challenge> git commit -m "日本語訳を追加"
 [main 4b117bd] 譌･譛ｬ隱櫁ｨｳ繧定ｿｽ蜉
  1 file changed, 3 insertions(+)
- 4b117bd (HEAD -> main) 日本語訳を追加
+ PS C:\Users\omovc\git_tutorial\git_tutorial3\git-basic-kadai-1\git_challenge> git log --oneline
+4b117bd (HEAD -> main) 日本語訳を追加
 303bceb hello_world.txt追加
